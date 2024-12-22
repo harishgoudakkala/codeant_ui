@@ -24,12 +24,12 @@ Follow these steps to run the project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/codeant-frontend-assignment.git
+   git clone https://github.com/harishgoudakkala/codeant_ui/
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd codeant-frontend-assignment
+   cd codeant_ui
    ```
 
 3. Install the dependencies:
@@ -47,7 +47,7 @@ Follow these steps to run the project locally:
 ## Deployment
 
 The project is deployed on Netlify. You can view the live demo here:  
-[Live Demo](https://your-netlify-deployment-link.netlify.app)
+[Live Demo](https://codeantui.netlify.app)
 
 ## Evaluation Criteria
 
@@ -65,8 +65,8 @@ The submission adheres to the following evaluation criteria:
 
 For any queries, feel free to contact the developer:  
 **Name**: Akkala Harish Goud  
-**Email**: akkalaharishgoud@example.com  
-**Portfolio**: [akkalaharishgoud.netlify.app](https://akkalaharishgoud.netlify.app)  
+**Email**: harishgoudakkala@gmail.com  
+**Portfolio**: [harishgoudakkala.netlify.app](https://harishgoudakkala.netlify.app)  
 
 ---
 
