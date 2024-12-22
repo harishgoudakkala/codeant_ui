@@ -14,7 +14,7 @@ This project is a submission for the CodeAnt AI Frontend Developer Intern Hiring
 ## Technologies Used
 
 - **ReactJS**: For building reusable components and managing UI state
-- **HTML/CSS**: For structuring and styling the UI
+- **Tailwind CSS**: For structuring and styling the UI
 - **React Router**: For navigation between pages
 - **Deployment**: Hosted on Netlify for easy access and demonstration
 
