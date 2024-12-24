@@ -49,18 +49,6 @@ Follow these steps to run the project locally:
 The project is deployed on Netlify. You can view the live demo here:  
 [Live Demo](https://codeantui.netlify.app)
 
-## Evaluation Criteria
-
-The submission adheres to the following evaluation criteria:
-
-- **Code Quality**: Clean, readable, and maintainable code
-- **Design Fidelity**: Accurate replication of the Figma design
-- **Functionality**: Smooth and seamless UI interactions
-- **Performance**: Optimized and responsive design
-- **Creativity**: Innovative solutions to challenges during implementation
-- **Responsiveness**: Adaptable to different screen sizes and devices
-- **Timeliness**: Completed within the deadline
-
 ## Contact
 
 For any queries, feel free to contact the developer:  
